@@ -1,2 +1,2 @@
-# HiX
+# Hicks
 Revolutionary new technology
